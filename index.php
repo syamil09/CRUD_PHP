@@ -20,7 +20,7 @@
 </head>
 <body>
 
-    <h2>Data Siswa</h2>
+    <h2>Kelola Data Siswa</h2>
     <a href="tambah_siswa.php" class="tambah">Tambah Data</a><br>
     <table border="1" cellpadding="10" cellspacing="0">
         <tr>
